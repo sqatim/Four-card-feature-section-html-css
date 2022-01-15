@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    gap: 10%;
+    font-family: "Poppins";
+}
+
+.title1{
+    color: hsl(229, 6%, 66%);
+    font-weight:lighter;
+}
+.title2{
+    color: hsl(234, 12%, 34%);
+    font-weight:600;
+}
+
+
+p{
+    
+    color:hsl(229, 6%, 66%)
+}
